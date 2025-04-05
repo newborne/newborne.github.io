@@ -1,4 +1,4 @@
-<h3>🌍  &nbsp;Connect with Me </h3>
+<h3> 🌍  &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://gitee.com/newborne/"><img alt="Website" src="https://img.shields.io/badge/Gitee-gitee.com/newborne-blue?style=flat-square&logo=google-chrome"></a>
@@ -6,7 +6,7 @@
 <a href="newborne@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-newborne@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3>🔬 &nbsp;Current Research Areas</h3>
+<h3> 🔬 &nbsp;Current Research Areas</h3>
 
 <p align="center">
   <a href="https://your-graph-clustering-link.com">
@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Vulnerability%20Detection-333333?style=flat-square" alt="Vulnerability Detection">
   </a>
 </p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
