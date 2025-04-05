@@ -38,7 +38,29 @@
 
 <h3> ✨ &nbsp;开源项目</h3>
 
-- [基于SpringBoot的智能推荐Demo](https://github.com/newborne/yizhi-demo)
+- **智能推荐系统 yizhi-demo**  
+  基于 SpringBoot 的智能推荐解决方案，整合 MySQL、MongoDB、Spark、Redis 和 Neo4j，提供高效、灵活的推荐服务。  
+  [GitHub 仓库](https://github.com/newborne/yizhi-demo)
+
+- **易知作文社交平台 yizhi-scrip**  
+  创新作文社交平台，提供从作文创作、智能推荐到社交互动的全方位体验，采用 Java、Vue 和 React Native 技术栈。  
+  [GitHub 仓库](https://github.com/newborne/yizhi-scrip)
+
+- **易知创作平台 yizhi-scrip**  
+  基于微服务架构的智能创作平台，整合大语言模型技术，支持创作灵感推荐、在线编辑器和社交互动。  
+  [GitHub 仓库](https://github.com/newborne/yizhi-scrip)
+
+- **智慧服务 SpringCloud 项目**  
+  基于 Spring Cloud 微服务架构的完整项目，涵盖书籍分类、仓库管理、支付处理、酒店预订、机票服务和天气服务等功能。  
+  [GitHub 仓库](https://github.com/newborne/spring-cloud-wisdom-service)
+
+- **仓库管理系统**  
+  基于 C# 和 WPF 的现代化仓库管理解决方案，采用 MVVM 架构设计，支持商品、订单、供应商、顾客、员工和部门管理。  
+  [GitHub 仓库](https://github.com/newborne/warehouse-management-system)
+
+- **易知医疗挂号平台尚医通**  
+  按部就班复现的医疗挂号平台，优化了数据库设计和命名规则，提供高效的挂号服务。  
+  [GitHub 仓库](https://github.com/newborne/medical-registration-platform)
 
 <p align="center">
 <a href="https://github.com/newborne">
