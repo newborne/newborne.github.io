@@ -55,6 +55,14 @@
 
 <h3> 📚 &nbsp;Paper</h3>
 
+- **Multi-view Graph Clustering with Dual Structure Awareness for Remote Sensing Data**  
+  Xin Peng, Bowen Liu, Renxiang Guan, Wenxuan Tu  
+  ACM MM 2025 (CCF A)
+
+- **Cross-View Progressive Feature Filtering for Multi-View Graph Clustering in Remote Sensing**  
+  Bowen Liu, Xin Peng, Wenxuan Tu, Chengyao Wei, Xiangyan Tang, Jieren Cheng, Miao Yu  
+  AAAI-26 Oral (CCF A)
+
 <h3> ✨ &nbsp;Project</h3>
 
 - **智能推荐系统 yizhi-demo**  
